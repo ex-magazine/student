@@ -1,0 +1,10 @@
+yarn create react-app my-app --template redux-typescript
+https://redux.js.org/usage/usage-with-typescript
+https://www.typescriptlang.org/
+
+https://redux-toolkit.js.org/api/getDefaultMiddleware
+https://redux-saga.js.org/docs/api
+
+
+npm install react-redux redux redux-saga redux-logger axios @material-ui/core  
+npm install @material-ui/icon
