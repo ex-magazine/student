@@ -18,7 +18,7 @@ export interface SelectFieldProps {
 
 export function SelectField ({name, control, label, disabled, options}: SelectFieldProps) {
   const {
-    field: {value, onChange, onBlur, ref},
+    field: {value, onChange, onBlur},
     fieldState: {invalid, error}
   } = useController({
     name,

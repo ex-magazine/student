@@ -8,3 +8,20 @@ https://redux-saga.js.org/docs/api
 
 npm install react-redux redux redux-saga redux-logger axios @material-ui/core  
 npm install @material-ui/icon
+
+npm i redux react-redux redux-saga react-router redux-form --save
+
+
+npx create-react-app react-redux-example --template typescript
+
+npm i react-redux redux redux-saga typesafe-actions
+npm i --save-dev @types/react-redux 
+
+npx browserslist@latest --update-db
+
+
+https://github.com/jcolemorrison/redux-sagas-authentication-app/tree/login
+
+
+https://www.mattbutton.com/redux-made-easy-with-redux-toolkit-and-typescript/
+https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/

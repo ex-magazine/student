@@ -1,8 +1,7 @@
-import { Box, Button, CircularProgress, makeStyles, Paper, Typography} from '@material-ui/core';
-import Alert from '@material-ui/lab/Alert';
+import { Box, Button, CircularProgress, makeStyles, Paper, Typography } from '@material-ui/core';
 import { useAppDispatch, useAppSelector } from 'app/hooks';
-import React, { useState } from 'react';
-import { authActions, selectCurrentUser } from '../authSlice';
+import React from 'react';
+import { authActions } from '../authSlice';
 
 
 
